@@ -5,6 +5,7 @@
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+*.sw*
 
 # make sure this links mirrors what's in scripts/clean
 
